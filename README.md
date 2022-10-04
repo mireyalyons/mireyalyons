@@ -1,2 +1,2 @@
+<a href="https://www.linkedin.com/in/mireyalyons/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-![Mireya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mireyalyons&show_icons=true&theme=dracula)
