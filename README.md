@@ -1,6 +1,6 @@
 ## Mireya Lyons
 
-# Tech-Savvy Data Enthusiast
+### Tech-Savvy Data Enthusiast
 
 Staff Analyst @ County of Fresno - Social Services    
 
