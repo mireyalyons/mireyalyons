@@ -1,6 +1,7 @@
 ## Mireya Lyons
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,mysql,tableau,powerbi,excel,js,html,css,wasm)](https://skillicons.dev)
+#Tech-Savvy Data Enthusiast
+Staff Analyst @ County of Fresno - Social Services    
 
 <a href="https://www.linkedin.com/in/mireyalyons/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
