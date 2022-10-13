@@ -13,6 +13,6 @@ Staff Analyst @ County of Fresno - Social Services
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mireyalyons&theme=react-dark&hide_border=true&area=true)
 
 
-![Snake animation](https://github.com/mireyalyons/github-contribution-snake.svg)
+![Snake animation](https://github.com/mireyalyons/output/github-contribution-snake.svg)
 
 
